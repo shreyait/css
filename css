@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<tittle><h1>Frisky journey</h1><hr></tittle>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header><nav>
+		<ul>
+			<li><a href="#">home</a></li>
+			<li><a href="#">book adventure</a></li>
+			<li><a href="#">login</a></li>
+			<li><a href="#">about us</a></li>
+		</ul>
+		<hr>
+	</nav>
+</header>
+<section>
+	<article>
+		<img src="https://images.unsplash.com/photo-1560194601-1e39c83e58fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"width="650px">
+<h2>video</h2>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/LLgbWMPI5l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/ibuUmMhD2Pg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2>motivational video</h2>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/Wx9v_J34Fyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2>adventure movies</h2>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/9D7N1LKf1cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</article>
+<article>
+	<h2>About Us</h2>
+	<p class="special_para">
+	We are here to make your adventure journey enjoyable.plan your entire adventure journey and enjoy your adventure.
+	<br>
+	you can even make your accounts and share which adventure are available at which place.Arrangement of stay and lot other related things.
+	</p>
+</article>
+</section>
+<footer>
+<p>copy right &copy; my website 2020</p>
+<p>made with &hearts; in india</p>
+</footer>
+</body>
+</html>
